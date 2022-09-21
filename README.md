@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is for learning who is having diffculties while learning json serailization and deserailization.
+This project is for learners who is having diffculties while learning json serailization and deserailization.
 
 A few resources to get you started if this is your first Flutter project:
 
